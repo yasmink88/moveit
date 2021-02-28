@@ -30,10 +30,11 @@ a {
     --text: #222;
     --text-highlight: #b3b9ff;
     --title: #2e384d;
-    --red: #e83f5b;
+    --red: #DD0553;
+    --red-dark: #BD0145;
     --green: #4cd62b;
-    --blue: #5965e0;
-    --blue-dark: #4953b8;
+    --blue: #51E5DE;
+    --blue-dark: #39CAC3;
     --blue-twitter: #2aa9e0;
 }
 
